@@ -1,0 +1,46 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: Outfit;
+    font-size: 15px;
+}
+
+.card{
+    margin: 50px  auto 20px auto;
+    background-color: white ;
+    height: 455px;
+    width: 305px;
+    border-radius: 10px;
+    text-align: center;
+   
+}
+
+.img-size{
+    width: 272px;
+    height: 272px;
+    margin: 10px 0px;
+    border-radius: 10px;
+}
+
+.title-text{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 8px ;
+}
+
+.paragraph-text{
+    font-weight: 400;
+    margin: 10px 20px;
+    color : hsl(220, 15%, 55%);
+}
+
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
